@@ -27,12 +27,15 @@ probabilistic models, and sports analytics.
 ---
 
 ## Student Awards
-- 39th Conference on Uncertainty in Artificial Intelligence (UAI) - Student Volunteer
-- 35th Annual Conference on Learning Theory (COLT) - Student Attendee
-- Professor Ram Kumar Scholarship Recipient
-- GAME-ARTS Workshop, Indian Institute of Science - Invited Participant
+- Professor Ram Kumar Scholarship Recipient, - GAME-ARTS Workshop, Indian Institute of Science - Invited Participant
+- **Open-Source Contributions**: Causal Discovery and Causal Structure Learning at BayesAI (Oct 2023 - Jul 2024)
 - CODS-COMAD 2024: Student Participant & Travel Grant Recipient
+- **Invited Talk**: "Causality and Network Science", ACM Winter School on Network Science, 2024 ([Link](https://rb.gy/5vbdbp))
+- 39th Conference on Uncertainty in Artificial Intelligence (UAI) - Student Volunteer
+- **Reviewer**: European Conference on Artificial Intelligence (ECAI) 2023
 - SICSS-IIITH: Invited Student Participant
+- 35th Annual Conference on Learning Theory (COLT) - Student Attendee
+- **Founding Chair**: ACM Student Chapter at IISERB
 - ACM Winter School – FAccT: Invited Participant
 - Students’ Undergraduate Research Conference – Azim Premji University: Poster Presenter [Publication 3]
 
@@ -40,9 +43,5 @@ probabilistic models, and sports analytics.
 
 ## Technical Services
 
-- **Reviewer**: European Conference on Artificial Intelligence (ECAI) 2023
-- **Invited Talk**: "Causality and Network Science", ACM Winter School on Network Science, 2024 ([Link](https://rb.gy/5vbdbp))
-- **Open-Source Contributions**: Causal Discovery and Causal Structure Learning at BayesAI (Oct 2023 - Jul 2024)
-- **Founding Chair**: ACM Student Chapter at IISERB
 
 (Last updated: October 22nd, 2024)
