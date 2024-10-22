@@ -23,7 +23,7 @@ probabilistic models, and sports analytics.
 - Counterfactual Generation Analysis
 - Identifying Crimes in Chicago
 - Leadership Romanticisation in Sports
-- 
+
 ---
 
 ## Student Awards
